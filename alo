@@ -1,0 +1,11 @@
+
+
+
+
+#1-vazifa
+ a = int(input("Juft sonni kiriting: "))
+if a//2:
+    print("Tog'ri")
+
+else:
+      print("Notog'ri")
